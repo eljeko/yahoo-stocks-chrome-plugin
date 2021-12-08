@@ -1,0 +1,1 @@
+# Yahoo stocks Chrome plugin
